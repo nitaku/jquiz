@@ -32,8 +32,8 @@ body {
 }
 
 .keyboard td {
-    width: 65px;
-    height: 65px;
+    width: 64px;
+    height: 89px;
     color: gray;
     padding: 0px;
     border: 1px solid #DDD;
