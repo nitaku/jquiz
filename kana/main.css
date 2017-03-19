@@ -24,6 +24,8 @@ body {
 .keyboard {
     font-size: 60px;
     width: 715px;
+    border-collapse: collapse;
+    margin-top: 22px;
 }
 #romaji_keyboard {
     font-size: 34px;
@@ -34,11 +36,13 @@ body {
     height: 65px;
     color: gray;
     padding: 0px;
+    border: 1px solid #DDD;
 }
 
 .keyboard td:hover {
     color: black;
     cursor: pointer;
+    background: #EEE;
 }
 
 .centered {
