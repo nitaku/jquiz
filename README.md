@@ -18,6 +18,4 @@ JQuiz is currently based on a very old code I wrote in my spare time. I still fi
 
 If you want to help to clean up, improve or expand JQuiz, feel free to fork this repository or to request to be added as a collaborator.
 
-If you just use it and find a bug or you come up with an idea for a new feature, please [file an issue](//github.com/nitaku/jquiz/issues).
-
-Finally, if you just want to share your ideas about learning the Japanese language, feel free to contact me :) .
+If you use the program and find a bug or you come up with an idea for a new feature, please [file an issue](//github.com/nitaku/jquiz/issues) (if you just want to share your ideas about learning the Japanese language, please use the "learning Japanese" label).
