@@ -2,7 +2,9 @@
 
 JQuiz is a collection of simple, web-based games for learning the Japanese language.
 
-## Kana quiz
+## Games
+
+### Kana quiz
 
 [Kana quiz](kana) challenges you to find the correct match between [Hiragana](//en.wikipedia.org/wiki/Hiragana) and [Romaji](//en.wikipedia.org/wiki/Romaji), [Katakana](//en.wikipedia.org/wiki/Katakana) and Romaji, or Hiragana and Katakana characters.
 
@@ -10,7 +12,7 @@ Kana and Romaji characters are arranged in a grid that shows the relationships b
 
 [Play Kana quiz!](//nitaku.github.io/jquiz/kana)
 
-# Developers / Help wanted
+## Developers / Help wanted
 
 JQuiz is currently based on a very old code I wrote in my spare time. I still find the program useful today, but it is a bit outdated. Code is messy, CSS is too dry, many game parameters are hardcoded... and there's only a single game in the collection!
 
